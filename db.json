@@ -1,6 +1,8 @@
 {
+  "stats": {    
   "tasks": "125",
   "tickets": "257",
   "comments": "243",
   "visitors": "1225"
+  }
 }
