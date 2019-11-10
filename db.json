@@ -1,8 +1,142 @@
 {
   "stats": {    
-  "tasks": "125",
-  "tickets": "257",
-  "comments": "243",
-  "visitors": "1225"
-  }
+    "tasks": "125",
+    "tickets": "257",
+    "comments": "243",
+    "visitors": "1225"
+  },
+  "purchases": [
+      {
+          "product": "Sony Xperia M4",
+          "price": "$149",
+          "date": "Aug 23, 2016",
+          "state": 1,
+      },
+      {
+          "product": "Apple iPhone 6",
+          "price": "$535",
+          "date": "Aug 20, 2016",
+          "state": 1,
+      },
+      {
+          "product": "Samsung Galaxy S7",
+          "price": "$583",
+          "date": "Aug 18, 2016",
+          "state": 2,
+      },
+      {
+          "product": "HTC One M9",
+          "price": "$350",
+          "date": "Aug 15, 2016",
+          "state": 2,
+      },
+      {
+          "product": "Sony Xperia Z5",
+          "price": "$495",
+          "date": "Aug 13, 2016",
+          "state": 3,
+      }
+  ],
+  "cards": [
+{
+"id": "1016",
+"author": "Philippe Wuyts",
+"url": "https://picsum.photos/id/1016/360/640"
+},
+{
+"id": "1018",
+"author": "Andrew Ridley",
+"url": "https://picsum.photos/id/1018/360/640"
+},
+{
+"id": "1019",
+"author": "Patrick Fore",
+"url": "https://picsum.photos/id/1019/360/640"
+},
+{
+"id": "102",
+"author": "Ben Moore",
+"url": "https://picsum.photos/id/102/360/640"
+},
+{
+"id": "1020",
+"author": "Adam Willoughby-Knox",
+"url": "https://picsum.photos/id/1020/360/640"
+},
+{
+"id": "1021",
+"author": "Frances Gunn",
+"url": "https://picsum.photos/id/1021/360/640"
+},
+{
+"id": "1022",
+"author": "Vashishtha Jogi",
+"url": "https://picsum.photos/id/1022/360/640"
+},
+{
+"id": "1023",
+"author": "William Hook",
+"url": "https://picsum.photos/id/1023/360/640"
+},
+{
+"id": "1024",
+"author": "Мартин Тасев",
+"url": "https://picsum.photos/id/1024/360/640"
+},
+{
+"id": "1025",
+"author": "Matthew Wiebe",
+"url": "https://picsum.photos/id/1025/360/640"
+},
+{
+"id": "1026",
+"author": "Dmitrii Vaccinium",
+"url": "https://picsum.photos/id/1026/360/640"
+},
+{
+"id": "1027",
+"author": "Roksolana Zasiadko",
+"url": "https://picsum.photos/id/1027/360/640"
+},
+{
+"id": "1028",
+"author": "Dikaseva",
+"url": "https://picsum.photos/id/1028/360/640"
+},
+{
+"id": "1029",
+"author": "freddie marriage",
+"url": "https://picsum.photos/id/1029/360/640"
+},
+{
+"id": "103",
+"author": "Ilham Rahmansyah",
+"url": "https://picsum.photos/id/103/360/640"
+},
+{
+"id": "1031",
+"author": "Mike Wilson",
+"url": "https://picsum.photos/id/1031/360/640"
+},
+{
+"id": "1032",
+"author": "NASA",
+"url": "https://picsum.photos/id/1032/360/640"
+},
+{
+"id": "1033",
+"author": "Erez Attias",
+"url": "https://picsum.photos/id/1033/2048/1365"
+},
+{
+"id": "1035",
+"author": "Jared Erondu",
+"url": "https://picsum.photos/id/1035/5854/3903"
+},
+{
+"id": "1036",
+"author": "Wolfgang Lutz",
+"url": "https://picsum.photos/id/1036/4608/3072"
+}
+]
 }
