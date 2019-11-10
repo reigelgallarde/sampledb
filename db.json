@@ -34,6 +34,36 @@
             "price": "$495",
             "date": "Aug 13, 2016",
             "state": "3"
+        },
+        {
+            "product": "Sony Xperia M4",
+            "price": "$149",
+            "date": "Aug 23, 2016",
+            "state": "1"
+        },
+        {
+            "product": "Apple iPhone 6",
+            "price": "$535",
+            "date": "Aug 20, 2016",
+            "state": "1"
+        },
+        {
+            "product": "Samsung Galaxy S7",
+            "price": "$583",
+            "date": "Aug 18, 2016",
+            "state": "2"
+        },
+        {
+            "product": "HTC One M9",
+            "price": "$350",
+            "date": "Aug 15, 2016",
+            "state": "2"
+        },
+        {
+            "product": "Sony Xperia Z5",
+            "price": "$495",
+            "date": "Aug 13, 2016",
+            "state": "3"
         }
     ],
     "cards": [{
