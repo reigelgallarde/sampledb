@@ -5,7 +5,8 @@
         "comments": "243",
         "visitors": "1225"
     },
-    "purchases": [{
+    "purchases": {
+        "items": [{
             "product": "Sony Xperia M4",
             "price": "$149",
             "date": "Aug 23, 2016",
@@ -58,6 +59,12 @@
             "price": "$350",
             "date": "Aug 15, 2016",
             "state": "2"
+        },
+        {
+            "product": "Sony Xperia Z5",
+            "price": "$495",
+            "date": "Aug 13, 2016",
+            "state": "3"
         },
         {
             "product": "Sony Xperia Z5",
@@ -66,6 +73,8 @@
             "state": "3"
         }
     ],
+    "count": "11",
+    },
     "cards": [{
             "id": "1016",
             "author": "Philippe Wuyts",
