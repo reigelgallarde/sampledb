@@ -5,8 +5,7 @@
         "comments": "243",
         "visitors": "1225"
     },
-    "purchases": {
-        "items": [{
+    "purchases":[{
             "product": "Sony Xperia M4",
             "price": "$149",
             "date": "Aug 23, 2016",
@@ -73,8 +72,6 @@
             "state": "3"
         }
     ],
-    "count": "11",
-    },
     "cards": [{
             "id": "1016",
             "author": "Philippe Wuyts",
